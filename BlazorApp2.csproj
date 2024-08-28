@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include=".github\workflows\main.yml" />
+    <None Include=".github\workflows\master.yml" />
   </ItemGroup>
 
   <ItemGroup>
